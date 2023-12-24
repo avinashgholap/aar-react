@@ -1,0 +1,21 @@
+{
+  "name": "aar-react",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/avinashgholap/aar-react.git"
+  },
+  "author": "Avinash Gholap",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/avinashgholap/aar-react/issues"
+  },
+  "homepage": "https://github.com/avinashgholap/aar-react#readme",
+  "devDependencies": {
+    "parcel": "^2.10.3"
+  }
+}
